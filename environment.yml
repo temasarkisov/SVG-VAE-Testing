@@ -1,0 +1,9 @@
+name: svg_vae_testing
+channels:
+- defaults
+dependencies:
+- certifi
+- pip
+- python=3.5.4
+- setuptools
+- wheel
